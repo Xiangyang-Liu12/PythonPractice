@@ -28,4 +28,22 @@ print(ceil(67.76896))
 print(sqrt(49))
 
 # Getting input from user
+input("waht is your name")
+# print("Hello" + input("what is your name"))
+print(len("Xiangyang Liu"))
 
+a = input("a : ")
+b = input("b : ")
+
+c = a
+a = b
+b = c
+
+#a small program
+print("Hello There")
+
+city = input("Please tell me the city that you grew up\n")
+
+pet = input(" What is the name of your pet\n")
+
+print("your band name could be " + city + " " + pet) 
